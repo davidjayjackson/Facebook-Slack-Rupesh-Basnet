@@ -1,0 +1,96 @@
+"CommonName","Species","Mass","Metab","Life"
+"Echidna","Tachiglossus aculeatus",2.5,302,14
+"Long-beaked echidna","Zaglossus bruijni",10.3,594,20
+"Platypus","Ornithorhynchus anatinus",1.3,229,9
+"Opossum","Lutreolina crassicaudata",0.812,196,5
+"South American opossum","Didelphis marsupialis",1.33,299,6
+"Virginia opossum","Didelphis virginiana",3.26,519,8
+"Australian marsupial","Antechinus macdonnellensis",0.0141,9,2
+"Marsupial","Antechinomus stuartii",0.00365,17.6,2.5
+"Marsupial","Antechinomus laniger",0.0085,5.17,2
+"Marsupial rat","Dasyuroides byrnei",0.089,37.4,3
+"Bandicoot","Isodon macroonurus",1,201,8
+"Long-nosed bandicoot","Perameles nasuta",0.645,153,7
+"Fat-tailed dunnart","Sminthopsis crassicaudata",0.015,9.64,2
+"Australian marsupial","Planigale maculata",0.013,13.7,1.5
+"Tasmanian devil","Sacrophilus harrisii",5.05,628,10
+"Brushtail possum","Trichosurus vulpecula",1.98,306,8
+"Kangaroo","Macropus robustus",4.69,694,11
+"Red kangaroo","Macropus rufus",40,4000,15
+"Tammar wallaby","Macropus eugenii",4.8,671,11
+"Sloth","Bradypus variegatus",3.79,331,19
+"Armadillo","Dasypus novemcinctus",3.32,384,10
+"Pangolin","Manis tricuspis",2.73,440,8
+"Scaly anteater","Manis javanica",4.22,529,11
+"Short-tailed shrew","Blarina brevicauda",0.021,25.3,1.2
+"Hamster","Cricetus cricetus",0.362,112,4
+"Spiny pocket mouse","Liomys salvini",0.0438,22.5,2.5
+"Mexican mouse","Liomys irroratus",0.0481,26,2.5
+"Mouse","Microtus minutus",0.0098,18,0.8
+"Mouse","Microtus mexicanus",0.028,22,1.5
+"Golden mouse","Ochrotomys nuttalli",0.0195,23.8,1.5
+"Mouse","Mus musculus",0.021,20.9,1.5
+"Woodrat","Neotoma cirenea",0.321,121,3.5
+"Woodrat","Neotoma lepida",0.139,48.2,3.5
+"Woodrat","Neotoma fuscipes",0.187,71.3,3.5
+"Woodrat","Neotoma albigula",0.172,61.4,3.5
+"Musk rat","Ondatra zibethicus",0.842,333,3.5
+"Pocket mouse","Perognathus longimembris",0.0115,11.4,1.5
+"Mouse","Perognahtus hispidus",0.0395,23.8,2
+"Rodent","Peromyscus eremicus",0.0215,15.4,1.5
+"Rodent","Peromyscus californicus",0.0455,22.6,2.5
+"White-footed mouse","Peromyscus leucopus",0.0222,26.8,1.5
+"Shrew","Sorex caecutiens",0.0036,15,0.8
+"Common shrew","Sorex araneus",0.005,17.6,0.8
+"Chinchilla","Chinchilla laniger",0.494,112,8
+"Viscacha","Lagostomus maximus",6.78,916,13
+"Rodent","Kerodon rupestris",0.75,193,6
+"Guinea pig","Cavia porcellus",0.5,192,6
+"Marmot","Marmota monax",2.65,320,10
+"Rat","Rattus fuscipes",0.076,40.7,3
+"Rat","Rattus lutreolus",0.109,30.5,3.5
+"Rat","Rattus rattus",0.132,80.9,3.5
+"Rat","Rattus sordidus",0.187,51.4,4
+"Cotton rat","Sigmodon hispidus",0.161,168,3
+"Brown hare","Lepus europaeus",2.5,528,8
+"Snowshoe hare","Lepus americanus",1.58,686,7
+"Jack Rabbit","Lepus californicus",2.3,623,8
+"Mountain hare","Lepus timidus",3,522,9
+"Hare","Lepus alleni",3.36,730,9
+"Cottontail","Sulvilagus audubonii",0.702,220,7
+"Pronghorn","Antilocapra americana",32,4320,18
+"Camel","Camelus dromedarius",407,23600,26
+"Asian elephant","Elephas maximum",3000,165000,54
+"Roe deer","Capreolus capreolus",19,3670,13
+"Red deer","Cervus elaphus",58,7800,18
+"Horse","Equus cabalus",400,32000,40
+"Merino sheep","Ovis aries",49,4200,20
+"Sheep","Ovis Canadensis",65,10700,20
+"Buffalo","Bubalus caffer",420,29400,35
+"Chamois","Rupicapra rupicapra",40,3140,21
+"Swine","Sus scrofa",140,12000,15
+"Collored peccary","Tayassu tajacu",20.2,826,15
+"Otter","Lutra lutra",10,2200,15
+"Wolverine","Gulogulo",12.7,2820,15
+"Badger","Meles meles",11.1,1440,16
+"Sea otter","Enhydra lutris",40,12400,16
+"Fox","Vulpes vulpes",5.01,1210,12
+"Coyote","canis latrans",10,1320,18
+"Dog","Canis familiaris",14,1880,18
+"Jaguar","Panthera onca",18,2440,20
+"Cat","Felis silvestris",3,546,11
+"Mink","Mustela vis on",0.66,239,8
+"Harbor seal","Phoca vitulina",26,7400,13
+"Beluga whale","Delphinapterus leucas",170,23000,25
+"Bottle-nosed whale","Hyperoodon ampullatus",1000,69500,40
+"Bat","Desmodus rotundus",0.029,9.65,8
+"Bat","Vampyrops lineatus",0.022,15.6,6
+"Ghost bat","Macroderma gigas",0.148,68,10
+"Molossid bat","Eumops per otis",0.057,14.2,10
+"Fox bat","Pteropus policephalus",0.598,153,13
+"Chimpanzee","Pan troglodytes",45,4620,40
+"Rhesus monkey","Macaca mulatta",5,960,25
+"Orangutan","Pongo pygma eus",150,15500,45
+"Gorilla","Gorilla gorilla",250,21000,45
+"Gibbon","Hylobater lar",8,1510,25
+"Man","Homo sapiens",65,7560,75
